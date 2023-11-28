@@ -2,10 +2,10 @@
 	"name" : "scoreScrolling",
 	"version" : 1,
 	"creationdate" : 3782870308,
-	"modificationdate" : 3783872452,
-	"viewrect" : [ 976.0, 300.0, 300.0, 500.0 ],
+	"modificationdate" : 3784036089,
+	"viewrect" : [ 942.0, 219.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
-	"hideprojectwindow" : 0,
+	"hideprojectwindow" : 1,
 	"showdependencies" : 1,
 	"autolocalize" : 1,
 	"contents" : 	{
@@ -14,6 +14,31 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
+			}
+,
+			"bach.approx.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"bach.ezmidiplay_me.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"bach.filter.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"bach.gcd.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"jit.record_me.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 ,
 			"scrolling_poly.maxpat" : 			{
@@ -89,12 +114,22 @@
 				"local" : 1
 			}
 ,
+			"santa.png" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+,
 			"star1.png" : 			{
 				"kind" : "imagefile",
 				"local" : 1
 			}
 ,
 			"star2.png" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"title.png" : 			{
 				"kind" : "imagefile",
 				"local" : 1
 			}
@@ -158,6 +193,96 @@
 		}
 ,
 		"externals" : 		{
+			"bach.expr.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"bach.portal.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"bach.args.mxo" : 			{
+				"kind" : "object"
+			}
+,
+			"bach.gt.mxo" : 			{
+				"kind" : "object"
+			}
+,
+			"bach.eq.mxo" : 			{
+				"kind" : "object"
+			}
+,
+			"bach.is.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"bach.neq.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"bach.iter.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"bach.pick.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"bach.reg.mxo" : 			{
+				"kind" : "object"
+			}
+,
+			"bach.flat.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"bach.length.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"bach.keys.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"bach.nth.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"bach.playkeys.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"bach.print.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"bach.slice.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"bach.score.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"jit.gl.syphonserver.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
 
 		}
 ,
