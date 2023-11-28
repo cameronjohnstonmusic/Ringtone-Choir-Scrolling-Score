@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 100.0, 100.0, 860.0, 440.0 ],
+		"rect" : [ 10000.0, 10000.0, 0.0, 0.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -1319,7 +1319,6 @@
 										"style" : "",
 										"subpatcher_template" : "default_with_darkmode_template",
 										"assistshowspatchername" : 0,
-										"visible" : 1,
 										"boxes" : [ 											{
 												"box" : 												{
 													"id" : "obj-1",
@@ -2706,7 +2705,6 @@
 										"style" : "",
 										"subpatcher_template" : "default_with_darkmode_template",
 										"assistshowspatchername" : 0,
-										"visible" : 1,
 										"boxes" : [ 											{
 												"box" : 												{
 													"id" : "obj-279",
@@ -16455,7 +16453,6 @@
 						"style" : "",
 						"subpatcher_template" : "default_with_darkmode_template",
 						"assistshowspatchername" : 0,
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-1",
@@ -16561,7 +16558,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 197.0, 176.0, 52.0, 35.0 ],
-									"text" : "u302000787 0"
+									"text" : "u884017189 0"
 								}
 
 							}
@@ -28400,14 +28397,14 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "QRphone.png",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/media",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "bach.approx.maxpat",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/patchers",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
@@ -28426,14 +28423,14 @@
 			}
 , 			{
 				"name" : "bach.ezmidiplay_me.maxpat",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/patchers",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "bach.filter.maxpat",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/patchers",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
@@ -28444,7 +28441,7 @@
 			}
 , 			{
 				"name" : "bach.gcd.maxpat",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/patchers",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
@@ -28507,42 +28504,42 @@
 			}
 , 			{
 				"name" : "background.png",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/media",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "bell.png",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/media",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "candle.png",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/media",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "clock.png",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/media",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "fire.png",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/media",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "fireworks.png",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/media",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
@@ -28553,91 +28550,91 @@
 			}
 , 			{
 				"name" : "jit.record_me.maxpat",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/patchers",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "music.png",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/media",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "party1.png",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/media",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "party2.png",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/media",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "present.png",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/media",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "qrwithText.png",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/media",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "santa.png",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/media",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "scrolling_poly.maxpat",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/patchers",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "songsColl.txt",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/data",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/data",
 				"patcherrelativepath" : "../data",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "star1.png",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/media",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "star2.png",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/media",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "title.png",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/media",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "tree.png",
-				"bootpath" : "~/Documents/Programming/scoreScrolling/media",
+				"bootpath" : "~/Documents/Programming/Ringtone Choir Complete/Ringtone Choir/scoreScrolling/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
