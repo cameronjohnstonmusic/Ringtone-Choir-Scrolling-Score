@@ -2,8 +2,8 @@
 	"name" : "scoreScrolling",
 	"version" : 1,
 	"creationdate" : 3782870308,
-	"modificationdate" : 3784036089,
-	"viewrect" : [ 942.0, 219.0, 300.0, 500.0 ],
+	"modificationdate" : 3784129479,
+	"viewrect" : [ 1081.0, 173.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 1,
 	"showdependencies" : 1,
@@ -47,6 +47,11 @@
 			}
 ,
 			"button_me.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"scrolling_poly1.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -135,6 +140,16 @@
 			}
 ,
 			"tree.png" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"checkmarkEmpty.png" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"checkmarkFull.png" : 			{
 				"kind" : "imagefile",
 				"local" : 1
 			}
